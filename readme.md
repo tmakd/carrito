@@ -18,7 +18,7 @@ Este es un ejercicio de 20 minutos. En el cual todas las personas van a tener qu
     - Un archivo markdown
     - un google sheets (excel)
 
-- Se tienen que encontrar al menos 6 bugs.
+- Se tienen que encontrar al menos 6 bugs. (2 bugs por persona)
 
 - Al final del ejercicio, una persona va a tener que compartir la pantalla y exponer lo encontrado.
 
