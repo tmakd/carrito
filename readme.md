@@ -7,7 +7,7 @@ Este es un ejercicio de 20 minutos. En el cual todas las personas van a tener qu
 
 - Voy a contar 20 minutos con un cronometro.
 
-- Van a tener 3 minutos previos al arranque para organizarse. y 10 minutos al final para exponer. Es decir:
+- Van a tener 3 minutos previos al arranque para organizarse. y algunos minutos al final para exponer. Es decir:
 
 3 minutos previos para organizarse
 20 minutos para hacer el ejercicio
