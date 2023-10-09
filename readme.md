@@ -7,7 +7,7 @@ Este es un ejercicio de 20 minutos. En el cual todas las personas van a tener qu
 
 - Voy a contar 20 minutos con un cronometro.
 
-- Van a tener 3 minutos previos al arranque para organizarse. y 10 minutos al final para exponer. Es decir:
+- Van a tener 3 minutos previos al arranque para organizarse. y algunos minutos al final para exponer. Es decir:
 
 3 minutos previos para organizarse
 20 minutos para hacer el ejercicio
@@ -18,11 +18,32 @@ Este es un ejercicio de 20 minutos. En el cual todas las personas van a tener qu
     - Un archivo markdown
     - un google sheets (excel)
 
-- Se tienen que encontrar al menos 6 bugs.
+- Se tienen que encontrar al menos 6 bugs. (2 bugs por persona)
 
 - Al final del ejercicio, una persona va a tener que compartir la pantalla y exponer lo encontrado.
 
 - Les voy a poner un puntaje, de organizacion, presentacion y contenido.
+
+## Para correr el programa
+
+- Se bajan el repositorio con este comando:
+
+> git clone https://github.com/tmakd/carrito.git
+
+- Se dirigen a la carpeta (con el comando cd). 
+- Parados en la carpeta del proyecto: Se descargan las dependencias de npm:
+
+> npm ci
+
+Esto les va a crear una carpeta node_modules con todas las dependencias.
+
+- ejecutan el programa con este comando (estando en la carpeta):
+
+> npm start
+
+o
+
+> npm start:dev
 
 ## Recomendaciones:
     - Que alguien sea el que maneje el grupo, establezca las tareas y divida el trabajo de manera unanime. Esto seria ideal hacerlo en los minutos previos.
